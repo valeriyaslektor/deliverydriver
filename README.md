@@ -15,7 +15,7 @@
 - **Speed Boost & Collision Deceleration**  
   - Сбор буста, увеличивающего скорость  
   - Замедление при столкновении с объектами  
-  - Смотрите: [Driver.cs](Assets/Scripts/Driver.cs)
+  - Смотрите: [Driver.cs](Assets/Driver.cs)
 
 - **Smooth Camera Follow**  
   - Плавное слежение камеры за игроком в `LateUpdate`  

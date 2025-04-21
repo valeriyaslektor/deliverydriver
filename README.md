@@ -23,12 +23,9 @@
 
 ---
 
-## Контакты
+## Demo
 
-Я открыта к предложениям на позиции **Game Designer** или **Technical Designer**:
-
-- Telegram: [@vskruspe](https://t.me/vskruspe)  
-- Email: [valeriyaslektor2000@gmail.com](mailto:valeriyaslektor2000@gmail.com)
+![Delivery Driver Demo](Driver.gif)
 
 ---
 
